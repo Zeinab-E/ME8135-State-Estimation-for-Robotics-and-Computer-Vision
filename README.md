@@ -8,3 +8,4 @@ In the assignment 1, a simplified 2D robot is simulated using pyGame in order to
 <img src="https://user-images.githubusercontent.com/82809946/124395648-795da300-dd1a-11eb-8b29-4b470505c113.gif" width="400" height="400" />
 
 
+In the assignment 2, a simplified 2D robot is simulated using pyGame in order to estimate state applying Particle filter algorithm.
