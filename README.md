@@ -6,4 +6,6 @@ In the assignment 1, a simplified 2D robot is simulated using pyGame in order to
 
 ![Kalman_Filter_Video_1](https://user-images.githubusercontent.com/82809946/124395648-795da300-dd1a-11eb-8b29-4b470505c113.gif)
 
+<img src="https://user-images.githubusercontent.com/82809946/124395648-795da300-dd1a-11eb-8b29-4b470505c113.gif" width="40" height="40" />
+
 
