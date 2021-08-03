@@ -12,3 +12,6 @@ In the assignment 2, a simplified 2D robot is simulated using pyGame in order to
 <!--- ![Particle_Filter_Video1](https://user-images.githubusercontent.com/82809946/124398419-e1b48080-dd2a-11eb-9b85-bd55201bdd0a.gif) --->
 
 <img src="https://user-images.githubusercontent.com/82809946/124398419-e1b48080-dd2a-11eb-9b85-bd55201bdd0a.gif" width="400" height="400" />
+
+
+In the assignment 3, Kimera-Semantics is installed and run on the demo rosbag.
