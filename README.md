@@ -17,4 +17,4 @@ In the assignment 2, a simplified 2D robot is simulated using pyGame in order to
 In the assignment 3, Kimera-Semantics is installed and run on the demo rosbag. Kimera-Semantics builds a 3D mesh from the VIO pose
 estimates, and uses a combination of dense stereo and bundled raycasting.
 
-<!---https://user-images.githubusercontent.com/82809946/128081493-e90df933-d1ce-4d9d-9ea7-026968eff7e3.mp4 --->
+<img src="https://user-images.githubusercontent.com/82809946/128081493-e90df933-d1ce-4d9d-9ea7-026968eff7e3.mp4">
